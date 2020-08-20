@@ -1,0 +1,16 @@
+.group:before,
+.group:after{
+    content: "";
+    display: table;
+    
+}
+
+.group:after{
+    clear: both;
+}
+
+.group{
+    zoom: 1;
+}
+when to use to px or percentage
+what does group do

@@ -1,0 +1,10 @@
+.container{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.site-nav li{
+    list-style: none;
+    margin-left: 20px;
+}
+
